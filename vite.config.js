@@ -9,10 +9,10 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       manifest: {
-        name: "BeatStreet",
-        short_name: "Beatstreet",
+        name: "Radio Adventista",
+        short_name: "Radio Adventista",
         description:
-          "Beatstreet is the ultimate destination for streaming and downloading music for free.",
+          "Radio Adventista",
         icons: [
           {
             src: "/images/logo-192.png",
